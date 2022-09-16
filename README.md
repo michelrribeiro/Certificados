@@ -23,6 +23,11 @@ Julho/2019
 
 #### **CURSOS E CERTIFCADOS**
 
+**Machine Learning**  
+Data Science Academy  
+Setembro/2022  
+Duração: 120h  
+
 **Engenharia de Dados Com Hadoop e Spark**  
 Data Science Academy  
 Junho/2022  
