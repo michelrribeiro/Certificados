@@ -23,6 +23,11 @@ Julho/2019
 
 #### **CURSOS E CERTIFCADOS**
 
+**Business Analytics**  
+Data Science Academy  
+Novembro/2022  
+Duração: 64h
+
 **Machine Learning**  
 Data Science Academy  
 Setembro/2022  
