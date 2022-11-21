@@ -23,54 +23,31 @@ Julho/2019
 
 #### **CURSOS E CERTIFCADOS**
 
-**Business Analytics**  
-Data Science Academy  
-Novembro/2022  
-Duração: 64h
+**Formação Cientista de Dados**
+Data Science Academy
+Novembro/2022
+Duração: 462h
+Descrição:
++ Big Data Analytics Com R e Microsoft Azure Machine Learning: utilização de Azure ML para construção de processos de aprendizado de máquina e criação dos mesmos processos em linguagem R ou com o misto das duas ferramentas.
++ Big Data Real-Time Analytics Com Python e Spark: utilização de Apache Spark por meio de pyspark para análise de dados, construção de de modelos de aprendizado de máquina (Spark MLLib) e análise em tempo real com Spark Streaming. 
++ Engenharia de Dados Com Hadoop e Spark: visão geral sobre os processos de obtenção, manutenção e utilização dos dados com base no ecossistema hadoop para armazenamento e processamento distribuído.
++ Machine Learning: apresentação e utilização dos principais algoritmos de aprendizado supervisionado (regressão e classificação) e de aprendizado não supervisionado (clusterização). 
++ Business Analytics: aplicação de ciência de dados em problemas de negócios das áreas de marketing (segmentação e testes A/B), people analytics, saúde (previsão de ocorrência de doenças), finanças (previsão de valores de ativos) e supply chain.
++ Visualização de Dados e Design de Dashboards: melhores práticas de design thinking e storytelling, além da utilização de linguagem R (ggplot2 e shiny), linguagem python (matplotlib, seaborn, plotly, dash, streamlio e h2o wave), Tableau, Metabase e Power BI.
 
-**Machine Learning**  
-Data Science Academy  
-Setembro/2022  
-Duração: 120h  
+**Microsoft Power BI Para Data Science**
+Data Science Academy
+Novembro/21
+Duração: 72h
 
-**Engenharia de Dados Com Hadoop e Spark**  
-Data Science Academy  
-Junho/2022  
-Duração: 44h  
-
-**Big Data Real-Time Analytics Com Python e Spark**  
-Data Science Academy  
-Maio/2022  
-Duração: 64h  
-
-**Big Data Analytics Com R e Microsoft Azure Machine Learning**  
-Data Science Academy  
-Abril/2022  
-Duração: 108h
-
-**Microsoft Power BI Para Data Science**  
-Data Science Academy  
-Novembro/21  
-Duração: 72h  
-
-**Governança de Dados**  
-Data Science Academy  
-Novembro/21  
-Duração: 8h
-
-**Python Fundamentos Para Análise de Dados 3.0**  
-Data Science Academy  
-Setembro/21  
-Duração: 60h  
+**Python Fundamentos Para Análise de Dados 3.0**
+Data Science Academy
+Setembro/21
+Duração: 60h
 
 **Scrum Foundation Professional Certificate**  
 CertiProf  
-Dezembro/20  
-
-**MS Excel Avançado**  
-Udemy  
-Março/20  
-Duração: 42h  
+Dezembro/20
 
 **Black Belt Six Sigma**  
 R&L Associados  
@@ -103,5 +80,4 @@ utilização de sistemas de ERP.
 #### **INFORMAÇÕES ADICIONAIS**
 
 **Idiomas:** Inglês, nível intermediário.  
-**Conhecimentos Técnicos:** Excel avançado; Minitab intermediário; Power
-BI avançado; SQL Intermediário; Python intermediário; R intermediário.
+Outros: Excel avançado; Power BI avançado; SQL intermediário; Python intermediário; R intermediário.
