@@ -24,10 +24,10 @@ Julho/2019
 #### **CURSOS E CERTIFCADOS**
 
 **Formação Cientista de Dados**
-Data Science Academy
-Novembro/2022
-Duração: 462h
-Descrição:
+Data Science Academy<br>
+Novembro/2022<br>
+Duração: 462h<br>
+Descrição:<br>
 + Big Data Analytics Com R e Microsoft Azure Machine Learning: utilização de Azure ML para construção de processos de aprendizado de máquina e criação dos mesmos processos em linguagem R ou com o misto das duas ferramentas.
 + Big Data Real-Time Analytics Com Python e Spark: utilização de Apache Spark por meio de pyspark para análise de dados, construção de de modelos de aprendizado de máquina (Spark MLLib) e análise em tempo real com Spark Streaming. 
 + Engenharia de Dados Com Hadoop e Spark: visão geral sobre os processos de obtenção, manutenção e utilização dos dados com base no ecossistema hadoop para armazenamento e processamento distribuído.
@@ -35,24 +35,24 @@ Descrição:
 + Business Analytics: aplicação de ciência de dados em problemas de negócios das áreas de marketing (segmentação e testes A/B), people analytics, saúde (previsão de ocorrência de doenças), finanças (previsão de valores de ativos) e supply chain.
 + Visualização de Dados e Design de Dashboards: melhores práticas de design thinking e storytelling, além da utilização de linguagem R (ggplot2 e shiny), linguagem python (matplotlib, seaborn, plotly, dash, streamlio e h2o wave), Tableau, Metabase e Power BI.
 
-**Microsoft Power BI Para Data Science**
-Data Science Academy
-Novembro/21
+**Microsoft Power BI Para Data Science**<br>
+Data Science Academy<br>
+Novembro/21<br>
 Duração: 72h
 
-**Python Fundamentos Para Análise de Dados 3.0**
-Data Science Academy
-Setembro/21
+**Python Fundamentos Para Análise de Dados 3.0**<br>
+Data Science Academy<br>
+Setembro/21<br>
 Duração: 60h
 
-**Scrum Foundation Professional Certificate**  
-CertiProf  
+**Scrum Foundation Professional Certificate**<br>
+CertiProf<br>
 Dezembro/20
 
-**Black Belt Six Sigma**  
-R&L Associados  
-Março/19  
-Duração: 100h  
+**Black Belt Six Sigma**<br>
+R&L Associados<br>
+Março/19<br>
+Duração: 100h
 
 #### **EXPERIÊNCIA PROFISSIONAL**
 
@@ -79,5 +79,5 @@ utilização de sistemas de ERP.
 
 #### **INFORMAÇÕES ADICIONAIS**
 
-**Idiomas:** Inglês, nível intermediário.  
+**Idiomas:** Inglês, nível intermediário.<br>
 Outros: Excel avançado; Power BI avançado; SQL intermediário; Python intermediário; R intermediário.
