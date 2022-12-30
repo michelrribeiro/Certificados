@@ -23,7 +23,7 @@ Julho/2019
 
 #### **CURSOS E CERTIFCADOS**
 
-**Formação Cientista de Dados**
+**Formação Cientista de Dados**<br>
 Data Science Academy<br>
 Novembro/2022<br>
 Duração: 462h<br>
